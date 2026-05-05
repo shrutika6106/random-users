@@ -2,6 +2,9 @@
 
 This project is a simple React-based web application that fetches and displays random user data using a public API.
 
+🔗 GitHub Repository  
+https://github.com/shrutika6106/random-users  
+
  🚀 Features
 
 - Fetch random users from API
